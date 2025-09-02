@@ -1,0 +1,23 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this react tutorial",
+  "homepage": "https://github.com/Yashaswini2004/namaste_react#readme",
+  "bugs": {
+    "url": "https://github.com/Yashaswini2004/namaste_react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashaswini2004/namaste_react.git"
+  },
+  "license": "ISC",
+  "author": "yashaswini",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
