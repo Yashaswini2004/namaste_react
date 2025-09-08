@@ -1,4 +1,4 @@
-3600
+3602
 85C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\regions\CZ.js134012937851558248 0
 93C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\gyroscope.js134012937859057286 0
 58C:\Users\YASHASWINI\Desktop\namasteReact\package-lock.json134013885964420250 0
@@ -11,7 +11,7 @@
 78C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\weak-lru-cache\README.md134012937799888499 0
 100C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi134012937825047656 0
 85C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\regions\SZ.js134012937876773620 0
-45C:\Users\YASHASWINI\Desktop\namasteReact\dist134013889231039111 1
+45C:\Users\YASHASWINI\Desktop\namasteReact\dist134017964677325271 1
 48C:\Users\YASHASWINI\Desktop\namasteReact\.vscode134012925960443232 1
 77C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\ordered-binary\index.js134012937796007373 0
 78C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\reporter-cli\lib134012937829929733 1
@@ -19,7 +19,7 @@
 90C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\webgl2.js134012937880757017 0
 95C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\textencoder.js134012937877316426 0
 79C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\packager-html\lib134012937821308093 1
-47C:\Users\YASHASWINI\Desktop\namasteReact\App.js134011210795658056 0
+47C:\Users\YASHASWINI\Desktop\namasteReact\App.js134013898428882500 0
 71C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\base-x\LICENSE.md134012937796370024 0
 74C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\postcss-value-parser134012937797329147 1
 97C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\readonly-attr.js134012937873240219 0
@@ -30,7 +30,7 @@
 94C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@swc\helpers\_\_class_private_method_get134012937848488769 1
 70C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\semver\README.md134012937818618136 0
 72C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\dotenv\config.d.ts134012937805228076 0
-51C:\Users\YASHASWINI\Desktop\namasteReact\index.html134012960022874826 0
+51C:\Users\YASHASWINI\Desktop\namasteReact\index.html134013894267011928 0
 90C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@swc\helpers\esm\_to_property_key.js134012937843996225 0
 81C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\react-dom\server.browser.js134013885963049867 0
 99C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\css-caret-color.js134012937840431624 0
@@ -77,6 +77,7 @@
 84C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\electron-to-chromium\README.md134012937808027758 0
 72C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\.package-lock.json134013885964873910 0
 93C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\atob-btoa.js134012937813653140 0
+74C:\Users\YASHASWINI\Desktop\namasteReact\dist\namasteReact.df82e103.js.map134013905912942429 0
 71C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\dependencies134012937839978467 1
 68C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\.bin\json5.cmd134012937882301630 0
 60C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@lezer134012937784210905 1
@@ -1404,7 +1405,7 @@
 78C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\src\compression.cpp134012937830077691 0
 73C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\src\cursor.cpp134012937830381424 0
 79C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\src\v8-functions.cpp134012937832280843 0
-56C:\Users\YASHASWINI\Desktop\namasteReact\dist\index.html134013889229394215 0
+56C:\Users\YASHASWINI\Desktop\namasteReact\dist\index.html134017961544166289 0
 85C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\regions\ES.js134012937854510263 0
 88C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@swc\helpers\cjs\_create_super.cjs134012937815152376 0
 90C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@swc\helpers\_\_extends\package.json134012937851953845 0
@@ -1539,6 +1540,7 @@
 101C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\deviceorientation.js134012937852304785 0
 75C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\chalk\source\index.js134012937788395055 0
 105C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c134012937818518860 0
+74C:\Users\YASHASWINI\Desktop\namasteReact\dist\namasteReact.cb65f72e.js.map134017964677265590 0
 87C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@swc\helpers\_\index\package.json134012937857693243 0
 105C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1134012937812507868 0
 100C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\css-unicode-bidi.js134012937848602757 0
@@ -3006,7 +3008,6 @@
 83C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\watcher\src\Signal.hh134012937814335363 0
 78C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\watcher\src\wasm134012937814541151 1
 84C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\watcher\src\Watcher.hh134012937815039653 0
-74C:\Users\YASHASWINI\Desktop\namasteReact\dist\namasteReact.3464ddca.js.map134013889230995124 0
 82C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\watcher\src\watchman134012937815331034 1
 81C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\watcher\src\windows134012937815984076 1
 99C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\watcher\src\windows\WindowsBackend.hh134012937816031467 0
@@ -3506,7 +3507,6 @@
 101C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js134012937846272907 0
 97C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\core\test\fixtures\config\subfolder134012937835472817 1
 113C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\core\test\fixtures\application-targets\package.json134012937853959344 0
-70C:\Users\YASHASWINI\Desktop\namasteReact\dist\namasteReact.3464ddca.js134013889230873048 0
 87C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\core\src\applyRuntimes.js134012937838272797 0
 84C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\core\src\AssetGraph.js134012937839267609 0
 84C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\core\src\assetUtils.js134012937840560388 0
@@ -3599,3 +3599,5 @@
 69C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\.bin\semver.cmd134012937882301630 0
 81C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\.bin\update-browserslist-db134012937882376215 0
 85C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\.bin\update-browserslist-db.ps1134012937882376215 0
+70C:\Users\YASHASWINI\Desktop\namasteReact\dist\namasteReact.cb65f72e.js134017964677231082 0
+70C:\Users\YASHASWINI\Desktop\namasteReact\dist\namasteReact.df82e103.js134013905912841398 0
