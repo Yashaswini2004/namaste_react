@@ -46,7 +46,7 @@
 81C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\plugin\package.json134012937808968941 0
 52C:\Users\YASHASWINI\Desktop\namasteReact\index1.html134011211562696339 0
 102C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\caniuse-lite\data\features\html-media-capture.js134012937859915013 0
-53C:\Users\YASHASWINI\Desktop\namasteReact\package.json134018207000347403 0
+53C:\Users\YASHASWINI\Desktop\namasteReact\package.json134018241018233150 0
 109C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json134012937852817016 0
 100C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\@parcel\error-overlay\src\utils\stack-frame.js134012937812192503 0
 77C:\Users\YASHASWINI\Desktop\namasteReact\node_modules\semver\classes\range.js134012937814111098 0
